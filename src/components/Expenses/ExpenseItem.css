@@ -1,0 +1,29 @@
+.single-card{
+    background-color:rgb(37, 31, 31);
+    border-radius: 40px;
+    
+    max-width: 95%;
+}
+.expense-item-description{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+
+}
+/* .expense-item{
+    color: #3a3a3a;
+    font-size:1rem;
+    flex :1;
+    display: center;
+    margin:0 1rem;
+    color: rgb(255, 255, 255);
+      
+} */
+.expense-item-price{
+    font-size:1rem;
+    font-weight: bold;
+    color: white;
+     background-color:#40005d; 
+    border:3px solid rgb(238, 238, 238);
+    padding: 0.5rem;
+    border-radius:12px;
+}
